@@ -1,3 +1,3 @@
-#Link al proyecto
+# React Tailwind TODO frontend Mentor
 
-https://ornate-semifreddo-b3ca48.netlify.app/
+- [preview proyect] (https://ornate-semifreddo-b3ca48.netlify.app/)
