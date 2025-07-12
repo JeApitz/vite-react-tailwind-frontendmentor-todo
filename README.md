@@ -1,3 +1,3 @@
 # React Tailwind TODO frontend Mentor
 
-- [preview proyect](https://ornate-semifreddo-b3ca48.netlify.app/)
+- [preview proyect](https://react-tailwind-frontendmentor-todo.netlify.app/)
